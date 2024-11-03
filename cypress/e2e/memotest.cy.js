@@ -1,4 +1,4 @@
-describe('Memotest Game', () => {
+describe('Memotest', () => {
 
   beforeEach(() => {
     cy.visit('src/index.html');
